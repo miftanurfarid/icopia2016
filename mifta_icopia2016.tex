@@ -39,7 +39,7 @@ The results of binaural hearing processing only simulate the sound transmission 
 g(t) ~=~ at^{3}e^{-2\pi bt}\cos(2 \pi ft + \phi)
 \end{equation}
 
-with 128 center frequency distributed in scale ERB 80 Hz to 5000 Hz\cite{roman2002}.
+with 128 center frequencies distributed in scale ERB 80 Hz to 5000 Hz\cite{roman2002}.
 
 \begin{equation}\label{pers:erb}
 ERB(f) ~=~ 24.7 \left( \frac{4.37 f}{1000} + 1\right)
@@ -64,7 +64,7 @@ ILD_i = 20log_{10}\frac{\sum_i l_i^2(t)}{\sum_i r_i^2(t)}
 where $l_i$, $r_i$ is firing-probabilty of left ear and right ear at $i$-frequency channel.
 
 \subsection{Relative Strength Estimation}
-Relative strength is energy ratio between target to masker signal. Relative strength is estimated as
+Relative strength is energy ratio between target to mixed signal. Relative strength is estimated as
 
 \begin{equation}
 RS_i = \frac{\sum_i s_i^2(t)}{\left(\sum_i s_i^2(t) + \sum_i n_i^2(t)\right)}
@@ -87,7 +87,7 @@ The results of probability density estimation (PDE) for both types of relative s
 
 \section{Segregation Process}
 \subsection{Azimuth Estimation}
-Azimuth of the target signal and masks can be estimated from summing the results of cross-correlation between the mixtured signal on the left ear and right ear in the time domain on all center frequency of 80 Hz to 5000 Hz. The peak value of the sum of cross correlation in ITD function can be represented as azimuth as in figure \ref{pict:azimuth}. In this figure, the first peak is at a lag of $0~ms$ is defined as a azimuth of target signal and a second peak at $0.21~ms$ as azimuth of masker signal. Both of these values as parameters of decision to take probability density estimation database of the results of the training data.
+Azimuth of the target signal and masks can be estimated from summing the results of cross-correlation between the mixtured signal on the left ear and right ear in the time domain on all center frequency of 80 Hz to 5000 Hz. The peak value of the sum of cross correlation in ITD function can be represented as azimuth in figure \ref{pict:azimuth}. In this figure, the first peak is at a lag of $0~ms$ is defined as a azimuth of target signal and a second peak at $0.21~ms$ as azimuth of masker signal. Both of these values as parameters of decision to take probability density estimation database of the results of the training data.
 
 \begin{figure}[h]
     \centering
@@ -98,7 +98,7 @@ Azimuth of the target signal and masks can be estimated from summing the results
 \end{figure} 
 
 \subsection{Binary Mask Estimation}
-Binary mask is estimated at each time-frequency unit. The binary mask value is 1 if the value of PDE with $RS > 0.5$ in figure \ref{pict:pde} (a) is greater than PDE with $RS \leq 0.5$ in figure \ref{pict:pde} (b) and will be 0 if the value of PDE with $RS > 0.5$ in figure \ref{pict:pde} (a) less than or equal to the PDE $RS \leq 0.5$ in figure \ref{pict:pde} (b). The value of each PDE obtained from ITD and ILD masker signal in each unit time-frequency of the mixtured signal. In figure \ref{pict:pde} is a graph of the PDE of a target at azimuth $0^o$ and a masker at azimuth $30^o$ with the center frequency of 500 Hz and SIR 30 dB. ITD and ILD masker obtained at center frequency of 500 Hz, calculated the value of its binary mask based on the probability density estimation in figure \ref{pict:pde}. Figure \ref{pict:spect_est_sig} shown spectrogram of estimated target signal compare to clean target signal and mixtured target signal.
+Binary mask is estimated at each time-frequency unit. The binary mask value is 1 if the value of PDE with $RS > 0.5$ in figure \ref{pict:pde} (a) is greater than PDE with $RS \leq 0.5$ in figure \ref{pict:pde} (b) and will be 0 if the value of PDE with $RS > 0.5$ in figure \ref{pict:pde} (a) less than or equal to the PDE $RS \leq 0.5$ in figure \ref{pict:pde} (b). The value of each PDE obtained from ITD and ILD masker signal in each unit time-frequency of the mixtured signal. In figure \ref{pict:pde} is a graph of the PDE of a target at azimuth $0^o$ and a masker at azimuth $30^o$ with the center frequency of 500 Hz and SIR 10 dB. ITD and ILD masker obtained at center frequency of 500 Hz, calculated the value of its binary mask based on the probability density estimation in figure \ref{pict:pde}. Figure \ref{pict:spect_est_sig} shown spectrogram of estimated target signal compare to clean target signal and mixtured target signal.
 
 \begin{figure}[h]
     \centering

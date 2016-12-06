@@ -1,0 +1,283 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.20)  19 SEP 2016 21:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**mifta_icopia2016.tex
+(./mifta_icopia2016.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(./jpconf.cls
+Document Class: jpconf 2007/03/07 v1.1 LaTeX class for Journal of Physics: Conf
+erence Series
+(./jpconf11.clo
+File: jpconf11.clo 2005/05/04 v1.0 LaTeX2e file (size option)
+)
+\indentedwidth=\skip41
+\mathindent=\dimen102
+\c@oldftnote=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\bibindent=\dimen103
+\c@eqnval=\count87
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(./mifta_icopia2016.aux)
+\openout1 = `mifta_icopia2016.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen106
+\scratchbox=\box26
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen107
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks16
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <18.06749> not available
+(Font)              size <17.28> substituted on input line 4.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <18.06749> not available
+(Font)              size <17.28> substituted on input line 4.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 33.
+ [2]
+Package epstopdf Info: Source file: <pict/pde.eps>
+(epstopdf)                    date: 2016-08-06 13:48:29
+(epstopdf)                    size: 7512197 bytes
+(epstopdf)             Output file: <pict/pde-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-08-06 13:50:31
+(epstopdf)                    size: 591105 bytes
+(epstopdf)             Command: <repstopdf --outfile=pict/pde-eps-converted-to.
+pdf pict/pde.eps>
+(epstopdf)             \includegraphics on input line 81.
+Package epstopdf Info: Output file is already uptodate.
+
+<pict/pde-eps-converted-to.pdf, id=22, 1155.31625pt x 660.4675pt>
+File: pict/pde-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pict/pde-eps-converted-to.pdf>
+Package pdftex.def Info: pict/pde-eps-converted-to.pdf used on input line 81.
+(pdftex.def)             Requested size: 397.48499pt x 227.22662pt.
+ [3 <./pict/pde-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pict/azimuth.eps>
+(epstopdf)                    date: 2016-08-06 16:01:37
+(epstopdf)                    size: 26393 bytes
+(epstopdf)             Output file: <pict/azimuth-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-08-06 16:02:43
+(epstopdf)                    size: 11458 bytes
+(epstopdf)             Command: <repstopdf --outfile=pict/azimuth-eps-converted
+-to.pdf pict/azimuth.eps>
+(epstopdf)             \includegraphics on input line 94.
+Package epstopdf Info: Output file is already uptodate.
+
+<pict/azimuth-eps-converted-to.pdf, id=43, 1155.31625pt x 660.4675pt>
+File: pict/azimuth-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pict/azimuth-eps-converted-to.pdf>
+Package pdftex.def Info: pict/azimuth-eps-converted-to.pdf used on input line 9
+4.
+(pdftex.def)             Requested size: 397.48499pt x 227.22662pt.
+Package epstopdf Info: Source file: <pict/spectrogram_results.eps>
+(epstopdf)                    date: 2016-08-06 16:39:34
+(epstopdf)                    size: 567041 bytes
+(epstopdf)             Output file: <pict/spectrogram_results-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-08-06 16:41:02
+(epstopdf)                    size: 254473 bytes
+(epstopdf)             Command: <repstopdf --outfile=pict/spectrogram_results-e
+ps-converted-to.pdf pict/spectrogram_results.eps>
+(epstopdf)             \includegraphics on input line 105.
+Package epstopdf Info: Output file is already uptodate.
+
+<pict/spectrogram_results-eps-converted-to.pdf, id=44, 1155.31625pt x 659.46375
+pt>
+File: pict/spectrogram_results-eps-converted-to.pdf Graphic file (type pdf)
+ <use pict/spectrogram_results-eps-converted-to.pdf>
+Package pdftex.def Info: pict/spectrogram_results-eps-converted-to.pdf used on 
+input line 105.
+(pdftex.def)             Requested size: 505.89pt x 288.76624pt.
+
+Overfull \hbox (50.64592pt too wide) in paragraph at lines 105--107
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pict/evaluation_pcw.png, id=45, 992.20688pt x 285.31593pt>
+File: pict/evaluation_pcw.png Graphic file (type png)
+
+<use pict/evaluation_pcw.png>
+Package pdftex.def Info: pict/evaluation_pcw.png used on input line 116.
+(pdftex.def)             Requested size: 397.48499pt x 114.2985pt.
+ [4 <./pict/azimuth-eps-converted-to.pdf>]
+<pict/evaluation_snr.png, id=67, 802.49812pt x 243.15843pt>
+File: pict/evaluation_snr.png Graphic file (type png)
+
+<use pict/evaluation_snr.png>
+Package pdftex.def Info: pict/evaluation_snr.png used on input line 124.
+(pdftex.def)             Requested size: 397.48499pt x 120.43985pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./pict/spectrogram_results-eps-converted-to.pdf> <./pict/evaluation_pcw.png
+>] [6 <./pict/evaluation_snr.png>] (./mifta_icopia2016.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.78749pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1706 strings out of 493304
+ 22947 string characters out of 6139871
+ 86484 words of memory out of 5000000
+ 5165 multiletter control sequences out of 15000+600000
+ 8758 words of font info for 31 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 37i,5n,23p,1263b,268s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on mifta_icopia2016.pdf (6 pages, 1097418 bytes).
+PDF statistics:
+ 133 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+
