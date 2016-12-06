@@ -1,0 +1,52 @@
+\begin{thebibliography}{xx}
+
+\harvarditem[Atmaja]{Atmaja}{2008}{Atmaja2008}
+\authorindexentries{Atmaja2008}{\do{Atmaja BT@Atmaja, B.T}}
+Atmaja, B.  (2008), {\em Implementasi Fast Fourier Transform (FFT) Pada Turbin
+  Uap Untuk Predictive Maintenance di PT. PJB UP Gresik}, Teknik Fisika ITS.
+
+\harvarditem[Bandyopadhyay et al.]{Bandyopadhyay, Mandal \&
+  Pal}{n.d.}{Bandyopadhyay}
+\authorindexentries{Bandyopadhyay}{\do{Bandyopadhyay Asok@Bandyopadhyay,
+  Asok}\do{Mandal Shyamal Kr Das@Mandal, Shyamal Kr.~Das}\do{Pal Barnali@Pal,
+  Barnali}}
+Bandyopadhyay, A., Mandal, S. K.~D. \& Pal, B.  (n.d.), `Real- time condition
+  monitoring system using vibration analysis for turbine bearing'.
+
+\harvarditem[Cooley \& Tukey]{Cooley \& Tukey}{1965}{Cooley1965}
+\authorindexentries{Cooley1965}{\do{Cooley James W@Cooley, James~W.}\do{Tukey
+  John W@Tukey, John~W.}}
+Cooley, J.~W. \& Tukey, J.~W.  (1965), `An algorithm for the machine
+  calculation complex fourier series', {\em Math Computation} {\bf 19},~297 --
+  301.
+
+\harvarditem[D.N.Brown \& T.Jensen]{D.N.Brown \& T.Jensen}{n.d.}{D.N.Brown}
+\authorindexentries{D.N.Brown}{\do{DNBrown@D.N.Brown}\do{TJensen@T.Jensen}}
+D.N.Brown \& T.Jensen  (n.d.), The use of spectrum comparison for bearing fault
+  detection - a case study from alma paper mill, quebec, canada, Technical
+  report, Bruel Kjaer Sound and Vibration (BKSV).
+
+\harvarditem[Girdhar]{Girdhar}{2004}{Girdhar2004}
+\authorindexentries{Girdhar2004}{\do{Girdhar Paresh@Girdhar, Paresh}}
+Girdhar, P.  (2004), {\em Practical Machinery Vibration Analysis and Predictive
+  Maintenance}, NewnesAn imprint of Elsevier.
+
+\harvarditem[Shreve]{Shreve}{1995}{Shreve1995}
+\authorindexentries{Shreve1995}{\do{Shreve Dennis H@Shreve, Dennis~H.}}
+Shreve, D.~H.  (1995), `Signal processing for effective vibration analysis'.
+
+\harvarditem[Tjia]{Tjia}{1994}{Tjia1994}
+\authorindexentries{Tjia1994}{\do{Tjia MO@Tjia, M.O.}}
+Tjia, M.  (1994), {\em Gelombang}, Dabara Publishers.
+
+\harvarditem[Welaratna]{Welaratna}{n.d.}{Welaratna}
+\authorindexentries{Welaratna}{\do{Welaratna Sri@Welaratna, Sri}}
+Welaratna, S.  (n.d.), `Thirty years of fft analyzers', {\em 30th Anniversary
+  Issue}.
+
+\harvarditem[Ypma]{Ypma}{2001}{Ypma2001}
+\authorindexentries{Ypma2001}{\do{Ypma Alexander@Ypma, Alexander}}
+Ypma, A.  (2001), Learning Methods for Machine Vibration Analysis and Helth
+  Monitoring, PhD thesis, TU Delft.
+
+\end{thebibliography}
